@@ -1,1 +1,1 @@
-# CQUPT-Web-
+# Distant similarity
