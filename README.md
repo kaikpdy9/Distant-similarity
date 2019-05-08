@@ -11,7 +11,7 @@ Distant similarity
 软件的数据库介绍
 =========================
 
-#### (数据库可视化还是用access，最后服务器用mysql存储)
+#### (数据库可视化还是用access，最后服务器用mysql存储，这个只是个大概的包含)
 ![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/database.png)
 
 软件的功能介绍
