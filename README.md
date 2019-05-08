@@ -1,5 +1,5 @@
 
-#Distant similarity
+Distant similarity
 =========================
 
 <p align="left">
