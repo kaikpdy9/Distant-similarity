@@ -8,7 +8,7 @@ Distant similarity
     <img src='https://img.shields.io/badge/-%E8%BD%BB%E7%A4%BE%E4%BA%A4-green.svg'>
 </p>
 
-软件的数据库介绍
+软件的数据库介绍(数据库可视化还是用access，最后服务器用mysql存储)
 =========================
 ![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/database.png)
 
@@ -23,6 +23,6 @@ PS这里添加记录功能
 - Landmark identification2：地标识别-2阶段，用户上传自己的图片进服务器，上传图片的地标名字到服务器，该名字唯一（即相册以名字妇存取分类）
 - pix match : 图像匹配 ,在服务器空间里存储用户的相册，服务器会创建两个一模一样的相册，一个相册以名字存取分类，另一个以特征存取分类
 关于匹配，
-- music match ————https://douban-api-docs.zce.me/ 
-- movie match ————https://douban-api-docs.zce.me/ 
-- book match ————https://douban-api-docs.zce.me/
+- music match ————根据服务器存储的music id名字进行匹配
+- movie match ————根据服务器存储的moive id名字进行匹配
+- book match ————根据服务器存储的book id名字进行匹配
