@@ -8,8 +8,10 @@ Distant similarity
     <img src='https://img.shields.io/badge/-%E8%BD%BB%E7%A4%BE%E4%BA%A4-green.svg'>
 </p>
 
-软件的数据库介绍(数据库可视化还是用access，最后服务器用mysql存储)
+软件的数据库介绍
 =========================
+
+#### (数据库可视化还是用access，最后服务器用mysql存储)
 ![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/database.png)
 
 软件的功能介绍
