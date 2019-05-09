@@ -11,7 +11,6 @@ Distant similarity
 软件的功能介绍
 =========================
 ![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/app%E5%8A%9F%E8%83%BD.png)
-PS这里添加记录功能
 
 - recording
 
