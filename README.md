@@ -60,8 +60,6 @@ Distant similarity
 -  整体调调像那种宇宙真空的感觉很棒  
 
 
-<img src='http://img4.imgtn.bdimg.com/it/u=1608423723,3093350189&fm=26&gp=0.jpg'>
-![](http://img4.imgtn.bdimg.com/it/u=1608423723,3093350189&fm=26&gp=0.jpg)
 
 
 ### 数据介绍
