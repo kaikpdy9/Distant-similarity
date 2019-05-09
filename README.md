@@ -61,6 +61,9 @@ Distant similarity
 
 
 
+![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/yuzhou.jpg)
+
+
 
 ### 数据介绍
 -----------
