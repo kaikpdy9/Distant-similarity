@@ -1,4 +1,4 @@
-* [横线](#横线)
+
 Distant similarity
 =========================
 <p align="left">
