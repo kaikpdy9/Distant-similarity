@@ -61,7 +61,25 @@ Distant similarity
 
 
 
+
 ![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/yuzhou.jpg)
+
+
+
+>  丑死了对吧哈哈哈
+>>  颜色淡一点吧
+
+
+
+
+![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/yuzhou1.jpg)
+
+
+
+
+
+![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/yuzhou2.jpg)
+
 
 
 
@@ -81,12 +99,17 @@ Distant similarity
 ### 项目进程
 -----------
 
+> 
+
 
 
 
 
 ### web+组队计划
 -----------
+
+
+
 
 
 
