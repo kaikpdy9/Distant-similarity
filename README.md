@@ -61,6 +61,8 @@ Distant similarity
 
 
 
+![](http://img4.imgtn.bdimg.com/it/u=1608423723,3093350189&fm=26&gp=0.jpg)
+
 
 ### 数据介绍
 -----------
@@ -69,5 +71,4 @@ Distant similarity
 ![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/database.png)
 
 
-> 这只是一些数据元素，具体数据库可视化用access和部署用mysql
-
+> 这只是一些数据元素，具体数据库讨论后，用access可视化和用mysql部署
