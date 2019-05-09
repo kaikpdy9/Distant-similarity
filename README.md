@@ -5,7 +5,8 @@ Distant similarity
     <img src='https://img.shields.io/badge/-%E8%AE%B0%E5%BD%95-yellow.svg' alt="Build Status">  
     <img src='https://img.shields.io/badge/-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-blue.svg'>
     <img src='https://img.shields.io/badge/-%E8%BD%BB%E7%A4%BE%E4%BA%A4-green.svg'>
-    <img src='https://img.shields.io/badge/-%E6%B2%BB%E6%84%88-orange.svg'>
+    <img src='https://img.shields.io/badge/-%E6%A0%91%E6%B4%9E-brightgreen.svg'>
+    <img src='https://img.shields.io/badge/-%E6%B2%BB%E6%84%88-red.svg'>
 </p>
 
 ****
