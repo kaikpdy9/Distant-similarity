@@ -8,7 +8,13 @@ Distant similarity
     <img src='https://img.shields.io/badge/-%E6%B2%BB%E6%84%88-orange.svg'>
 </p>
 
-软件的功能介绍
+****
+## 目录
+* [软件功能介绍](#功能介绍)
+* [数据库介绍](#数据库介绍)
+* [项目进程](#项目进程)
+
+软件功能介绍
 =========================
 ![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/app%E5%8A%9F%E8%83%BD.png)
 
@@ -28,7 +34,7 @@ Distant similarity
 
 ### 横线
 
-软件的数据库介绍
+数据库介绍
 =========================
 
 #### (数据库可视化还是用access，最后服务器用mysql存储，这个只是个大概的包含)
