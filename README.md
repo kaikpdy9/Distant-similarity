@@ -277,13 +277,15 @@ hahahah
 
 灵感来自霍金曾在采访里说过的一句话
 
-What are the things you find most beautiful in science?
+>What are the things you find most beautiful in science?
 
-Science is beautiful when it makes simple explanations of phenomena or connections between different observations. Examples include the double helix in biology, and the fundamental equations of physics.
+>Science is beautiful when it makes simple explanations of phenomena or connections between different observations. Examples include the double helix in biology, and the fundamental equations of physics.
 
-不知道是谁意译了这么一句话
+不知道是谁意译的
 
-遥远的相似性
+总之很美好
+
+
 
 
 
