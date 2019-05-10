@@ -219,6 +219,20 @@ https://firebase.google.com/docs/ml-kit/recognize-landmarks?hl=zh-cn
 
 亦或者像项目里那样的游戏，找到对应的地标进行拍照完成解锁，并在个人页面的足迹mark
 
+并且还调用google map api接口（那谷歌不得气死）
+
+那就调用baidu map api接口，当你在外面逛街的时候
+
+就好比你在南岸区瞎逛的时候
+
+app通过baidu map api识别到你的位置
+
+并且从服务器相册里随机生成一张你周围的地标照片
+
+由于角度问题，你需要找到一个大概吻合的角度进行拍照
+
+从而完成任务
+
 
 
 
