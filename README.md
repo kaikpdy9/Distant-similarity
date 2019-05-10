@@ -123,6 +123,7 @@ Distant similarity
 
 >  打算采用MVC开发模式，也就是这个项目的话只有3人。。。
 >>    MVC https://baike.baidu.com/item/MVC%E6%A1%86%E6%9E%B6/9241230?fromtitle=MVC&fromid=85990&fr=aladdin
+
 >>      但是百度的和我理解的不一样哈哈哈哈
 >>        那就以我自己话来说了
 >>           M 的话对应于微信小程序，我觉得就好像前端一样
