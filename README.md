@@ -251,9 +251,19 @@ app通过baidu map api识别到你的位置
 
 去探索那些未经发现的美好
 
+最后岂不是我们地球上的所有地方都有这么多特征数据了
 
+hahahah
 
+那以后用地图的时候，是不是可以显示那些数据呢，
 
+显示那些陌生人的足迹了呢
+
+去看他们的精神世界是不是更方便了呢
+
+在地球上的一个个小点点，仿似独立地漂浮在地球上
+
+或许两个点走过的足迹正好，正好在听同一首歌呢
 
 
 
@@ -263,7 +273,17 @@ app通过baidu map api识别到你的位置
 
 关于这个应用的名字
 
-####遥远的相似性
+- 遥远的相似性
+
+灵感来自霍金曾在采访里说过的一句话
+
+What are the things you find most beautiful in science?
+
+Science is beautiful when it makes simple explanations of phenomena or connections between different observations. Examples include the double helix in biology, and the fundamental equations of physics.
+
+不知道是谁意译了这么一句话
+
+遥远的相似性
 
 
 
