@@ -155,7 +155,7 @@ Distant similarity
 -----------
 
 
->  打算采用MVC开发模式，也就是这个项目的话只有3人。。。
+>  已完成组队
 >     MVC https://baike.baidu.com/item/MVC%E6%A1%86%E6%9E%B6/9241230?fromtitle=MVC&fromid=85990&fr=aladdin
 
  但是百度的和我理解的不一样哈哈哈哈，那就以我自己话来说了
@@ -179,11 +179,7 @@ Distant similarity
      者其他语言，这个的话，到就大家一起写点吧哈哈哈
 
 
- 总结下   :   
--  需要一个写微信小程序前端的 ，不过可能还要写点后端代码
-   （包含一起设计数据库）
-   
--  需要一个UI设计 
+
 
 
 ### app策划书版
