@@ -9,6 +9,15 @@ Distant similarity
     <img src='https://img.shields.io/badge/-%E6%B2%BB%E6%84%88-red.svg'>
 </p>
 
+
+
+#已完成组队o(^▽^)o
+
+#项目完成情况请戳这里
+
+
+
+
 ****
 ## 目录
 * [总览](#总览)
@@ -133,19 +142,7 @@ Distant similarity
 ### 项目进程
 -----------
 
--  超级超级超级初期，即当产品定位吧
 
-
--  to be continued
-
-
--  to be continued
-
-
--  to be continued
-
-
--  to be continued
 
 
 
