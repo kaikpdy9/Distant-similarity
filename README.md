@@ -13,7 +13,7 @@ Distant similarity
 
 # 已完成组队o(^▽^)o
 
-# [项目的记录情况请戳这里](http://blog.csdn.net/guodongxiaren "悬停显示")
+# [项目的记录情况请戳这里](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/plan.md "悬停显示")
 
 
 
