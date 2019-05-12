@@ -32,8 +32,10 @@ https://study.163.com/course/courseLearn.htm?courseId=1004573059#/learn/video?le
 
 - V: 需要一张 logo (就是app的那个封面比如说腾讯的就是那个企鹅)
 
-eg.这是腾讯视频的logo
-![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/logo2.jpg)
+    eg.这是腾讯视频的logo
+
+
+![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/logo.jpg)
 
 
 就靠这几句灵感随便设计吧
