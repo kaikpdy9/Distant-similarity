@@ -31,6 +31,11 @@ https://study.163.com/course/courseLearn.htm?courseId=1004573059#/learn/video?le
  
 
 - V: 需要一张 logo (就是app的那个封面比如说腾讯的就是那个企鹅)
+
+eg.这是腾讯视频的logo
+![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/logo2.jpg)
+
+
 就靠这几句灵感随便设计吧
 >> 量子力学里的纠缠,两个粒子在经过短暂时间彼此耦合之后，相距再遥远，其中一个粒子受干扰发生变化，瞬间地，遥远空间另外一个粒子也会发生变化。瞬间地，遥远空间外另一个粒子也会发生变化
 
