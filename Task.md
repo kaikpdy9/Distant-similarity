@@ -31,6 +31,7 @@ https://github.com/CloudKits/miniprogram-foodmap
 >>我在孤独之树的湖边，等风，等云，等光微亮，等水波不兴。在遥远南半球的一棵树上，我看到了人性生来孤独的相似。
 每个人心中都有一团火，路过的人只看到烟”，愿每一个人都能遇到世界另一个角落的相似性，无论是情是景
 
+![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/logo1.jpg)
 
 
 
