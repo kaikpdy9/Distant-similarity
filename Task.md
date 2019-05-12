@@ -35,7 +35,7 @@ https://study.163.com/course/courseLearn.htm?courseId=1004573059#/learn/video?le
     eg.这是腾讯视频的logo
 
 
-![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/logo.jpg)
+![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/logo2.jpg)
 
 
 就靠这几句灵感随便设计吧
