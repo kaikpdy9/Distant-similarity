@@ -32,7 +32,7 @@ https://github.com/CloudKits/miniprogram-foodmap
 每个人心中都有一团火，路过的人只看到烟”，愿每一个人都能遇到世界另一个角落的相似性，无论是情是景
 
 
-![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/logo1.jpg)
+![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/logo2.jpg)
 
 
 
