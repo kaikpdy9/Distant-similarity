@@ -15,7 +15,7 @@ Distant similarity
 
 # [项目的记录情况请戳这里](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/plan.md "悬停显示")
 
-# [当前任务请戳这里](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/plan.md "悬停显示")
+# [当前任务查看请戳这里](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/plan.md "悬停显示")
 
 
 ****
