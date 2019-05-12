@@ -33,7 +33,7 @@ https://github.com/CloudKits/miniprogram-foodmap
 
 
 ![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/logo1.jpg)
-![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/yuzhou2jpg)
+
 
 
 
