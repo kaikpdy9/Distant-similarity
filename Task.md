@@ -16,7 +16,7 @@ Distant similarity
 
 ps:如果觉得时间不够,可以给我说下就好了，不慌的个
 
-> 任务一   deadline:5.15
+># 任务一   deadline:5.15
 
 - M: 把 js 的语法看啦 ，速度快有空把jquery 也看一看，还有vue 和 react大概了解下就好了
 这里有https://github.com/RaoMeng/TemplateOfHotel
