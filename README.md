@@ -1,5 +1,5 @@
 
-Distant similarity
+~~Distant similarity~~ 项目结束，再见
 =========================
 <p align="left">
     <img src='https://img.shields.io/badge/-%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB-yellow.svg'>  
