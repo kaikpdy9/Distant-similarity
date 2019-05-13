@@ -13,7 +13,7 @@ Distant similarity
 
 # 已完成组队o(^▽^)o
 
-# [项目的记录情况请戳这里](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/plan.md "悬停显示")
+# [项目的进程情况请戳这里](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/plan.md "悬停显示")
 
 # [当前任务查看请戳这里](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/Task.md "悬停显示")
 
