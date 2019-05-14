@@ -13,7 +13,7 @@ Distant similarit
 
 ## 需要一个懂一点点微信小程序开发的同学(0/1)
 
-## 需要一个懂一点点界面设计，ppt，word排版的同学(0/1)
+## 需要一个懂一点点界面设计，排版的同学(0/1)
 
 ## [项目的进程情况请戳这里](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/plan.md "悬停显示")
 
