@@ -18,17 +18,7 @@ ps:如果觉得时间不够,可以给我说下就好了，不慌的个
 
 ># 任务一   deadline:5.15
 
-- M: 把 js 的语法看啦 ，速度快有空把jquery 也看一看，还有vue 和 react大概了解下就好了
-这里有https://github.com/RaoMeng/TemplateOfHotel
-https://github.com/CloudKits/miniprogram-foodmap
-几个微信小程序的模板，你看完js可以照着模仿，可以先看了了解下大概，假如不会用github下载的话问我
-最好是照着网上的课程先去写一写，我记得以前看的时候就是直接去看的这个，模仿花瓣网写的
-https://study.163.com/course/courseLearn.htm?courseId=1004573059#/learn/video?lessonId=1052017778&courseId=1004573059
-我是直接从这里开始看的，然后模仿着写，好有个大概认识，大概了解啦，就可以看看微信小程序是怎么写的，去看看上面两个小程序的源码，有个
-大概了解（我没弄明白微信小程序的服务器是用自己的，还是用腾讯的，这些了解下，就好）
-总之把js 学好
 
- 
 
 - V: 需要一张 logo (就是app的那个封面比如说腾讯的就是那个企鹅)
 
@@ -48,8 +38,6 @@ https://study.163.com/course/courseLearn.htm?courseId=1004573059#/learn/video?le
 ![](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/img/logo1.jpg)
 
 
-
-- C：我的话，就去写策划书了0.0，争取这几天多写点，周一还有个考试(ノへ￣、)
 
 
 
