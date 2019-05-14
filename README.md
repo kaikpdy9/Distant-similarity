@@ -9,9 +9,9 @@ Distant similarit
     <img src='https://img.shields.io/badge/-%E6%B2%BB%E6%84%88-red.svg'>
 </p>
 
-# [项目的进程情况请戳这里](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/plan.md "悬停显示")
+## [项目的进程情况请戳这里](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/plan.md "悬停显示")
 
-# [当前任务查看请戳这里](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/Task.md "悬停显示")
+## [当前任务查看请戳这里](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/Task.md "悬停显示")
 
 
 ****
