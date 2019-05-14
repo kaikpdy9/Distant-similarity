@@ -39,4 +39,4 @@ Distant similarity
 
 >更新时间 5-14
 
-- 这怎么能够打败kaikai呢
+- 项目重新开始
