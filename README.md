@@ -18,7 +18,8 @@ Distant similarit
 ## [项目的进程情况请戳这里](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/plan.md "悬停显示")
 
 ## [当前任务查看请戳这里](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/Task.md "悬停显示")
-
+ 
+## [当前任务查看请戳这里](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/discussion.md "悬停显示")
 
 ****
 ## 目录
