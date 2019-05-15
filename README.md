@@ -19,7 +19,7 @@ Distant similarit
 
 ## [当前任务查看请戳这里](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/Task.md "悬停显示")
  
-## [当前任务查看请戳这里](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/discussion.md "悬停显示")
+## [线下讨论时间安排以及讨论内容](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/discussion.md "悬停显示")
 
 ****
 ## 目录
